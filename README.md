@@ -1,6 +1,6 @@
 <!-- ANIMATED TYPING HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Abdeljalil+Wahib+(AJ);Web+Developer+%7C+42+Cadet;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Abdeljalil+Wahib+(AJ);Web+Developer+%7C+1337+Cadet;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Web Developer from Morocco</h3>
