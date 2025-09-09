@@ -1,7 +1,3 @@
-<!-- 🌌 COSMIC BLACKHOLE BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdeljalil-wahib/assets/main/blackhole-banner.gif" alt="Blackhole Banner" width="100%" />
-</p>
 <!-- ANIMATED TYPING HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Abdeljalil+Wahib+(AJ);Web+Developer+%7C+42+Cadet;Building+Modern+Web+Experiences" alt="Typing SVG" />
@@ -80,20 +76,15 @@ I'm **Abdeljalil Wahib** (AJ), a **1337 coding school cadet** and **web develope
   <a href="https://linkedin.com/in/abdeljalil-wahib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-abdeljalil--wahib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ajwahib.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ajwahib.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://awahib-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="mailto:ajwahib.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ajwahib.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<!-- COSMIC FOOTER -->
-<p align="center">
-  <img src="https://i.ibb.co/G90GZ0d/nebula-particles.gif" alt="Cosmic Footer" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00F7FF&section=footer"/>
