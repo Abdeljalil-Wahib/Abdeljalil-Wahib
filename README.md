@@ -1,12 +1,12 @@
 <!-- ANIMATED TYPING HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Abdeljalil+Wahib+(AJ);Web+Developer+%7C+1337+Cadet;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Abdeljalil+Wahib+(AJ);Web+Developer+%7C+1337+Cadet;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Web Developer from Morocco</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdeljalil-wahib&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdeljalil-wahib&label=Profile+Views&color=FF00FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -27,22 +27,22 @@ I'm **Abdeljalil Wahib** (AJ), a **1337 coding school cadet** and **web develope
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Redux%20%7C%20TailwindCSS-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Redux%20%7C%20TailwindCSS-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-FF00FF?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite-4DB33D?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite-FF00FF?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/Others-C%20%7C%20C++%20%7C%20Docker%20%7C%20Git%20%7C%20Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Others-C%20%7C%20C++%20%7C%20Docker%20%7C%20Git%20%7C%20Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -61,11 +61,11 @@ I'm **Abdeljalil Wahib** (AJ), a **1337 coding school cadet** and **web develope
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeljalil-wahib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeljalil-wahib&show_icons=true&theme=tokyonight&title_color=FF00FF&icon_color=FF00FF&hide_border=true&count_private=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdeljalil-wahib&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdeljalil-wahib&layout=compact&theme=tokyonight&title_color=FF00FF&hide_border=true" height="160" />
 </p>
 
 ---
@@ -74,18 +74,18 @@ I'm **Abdeljalil Wahib** (AJ), a **1337 coding school cadet** and **web develope
 
 <p align="center">
   <a href="https://linkedin.com/in/abdeljalil-wahib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-abdeljalil--wahib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-abdeljalil--wahib-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://awahib-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:ajwahib.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ajwahib.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-ajwahib.dev%40gmail.com-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00F7FF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF00FF&section=footer"/>
 </p>
