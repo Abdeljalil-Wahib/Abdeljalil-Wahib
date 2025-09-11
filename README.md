@@ -15,7 +15,7 @@
 
 I'm **Abdeljalil Wahib** (AJ), a **1337 coding school cadet** and **web developer** passionate about building scalable, efficient, and user-friendly applications.
 
-- 🎓 **42 Journey** → Built a strong foundation in **C programming**, **memory management**, **networking**, and **system-level development**.  
+- 🎓 **1337 Journey** → Built a strong foundation in **C programming**, **memory management**, **networking**, and **system-level development**.  
 - ⚡ **Advanced Skills** → Object-Oriented Programming in **C++**, **Docker**, and **Linux-based environments**.  
 - 🔭 **Currently Working On** → **Inception** — a Docker-based infrastructure project at 1337.  
 - 💻 **Web Development** → Skilled in **React**, **Next.js**, **Redux**, and modern frontend stacks.  
