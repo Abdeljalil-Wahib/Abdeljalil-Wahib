@@ -47,28 +47,44 @@ I'm **Abdeljalil Wahib** (AJ), a **1337 coding school cadet** and **web develope
 
 ---
 
-## 🚀 Current Projects  
+<h2 align="center">🚀 Current Projects</h2>
 
-| Project        | Status          | Description |
-|----------------|-----------------|-------------|
-| **Inception**  | 🛠 In Progress   | Docker-based infrastructure project at 42, deploying multi-service environments. |
-| **Portfolio**  | ✅ Done         | Personal portfolio to showcase projects and achievements. |
-| **E-commerce** | ✅ Done         | React + Next.js e-commerce app with Redux and optimized UI. |
-| **Holoboard**  | 🚀 Building     | React + Next.js real-time collaborative whiteboard app. |
-
----
-
-## 📊 GitHub Stats  
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Status</th>
+      <th align="center">Description</th>
+    </tr>
+    <tr>
+      <td align="center"><b>Inception</b></td>
+      <td align="center">✅ Done</td>
+      <td align="center">Docker-based infrastructure project at 42, deploying multi-service environments.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Portfolio</b></td>
+      <td align="center">✅ Done</td>
+      <td align="center">Personal portfolio to showcase projects and achievements.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>E-commerce</b></td>
+      <td align="center">✅ Done</td>
+      <td align="center">React + Next.js e-commerce app with Redux and optimized UI.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Holoboard</b></td>
+      <td align="center">🚀 Building</td>
+      <td align="center">React + Next.js real-time collaborative whiteboard app.</td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeljalil-wahib&show_icons=true&theme=tokyonight&title_color=FF00FF&icon_color=FF00FF&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdeljalil-wahib&theme=tokyonight&bg_color=1a1b27&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdeljalil-wahib&layout=compact&theme=tokyonight&title_color=FF00FF&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdeljalil-wahib&theme=tokyonight&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🔗 Connect With Me  
 
